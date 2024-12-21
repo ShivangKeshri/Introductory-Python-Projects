@@ -1,0 +1,9 @@
+Once upon a time in a <adjective> kingdom, there lived a <adjective> <animal>. This <animal> loved to <verb> every day near the <place>.
+One day, the <animal> met a <adjective> <person> who was looking for a <noun>. They decided to team up and embark on a <adjective> adventure.
+
+Their journey took them to the <place> of <plural_noun>, where they discovered a magical <noun>.
+To use the magic, they had to solve a <adjective> riddle: "What has <number> <plural_noun>, but cannot <verb>?"
+
+After much <verb_ending_in_ing>, they found the answer and unlocked the <adjective> <noun>.
+Together, they celebrated with a <adjective> feast of <plural_food> and lived <adverb> ever after.
+"""
